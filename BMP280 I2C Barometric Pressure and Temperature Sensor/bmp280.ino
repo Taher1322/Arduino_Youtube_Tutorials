@@ -1,4 +1,4 @@
-/* Example testing sketch for various DHT humidity/temperature sensors
+/* Example testing sketch for Barometric Pressure and Temperature sensor
   For more information visit us: www.electrofun.co.in
   Video explanation at: https://youtu.be/nM0v8nLDRas
 
