@@ -1,3 +1,11 @@
+/* Example testing sketch for SHT21 Temperature and Humidity sensor
+  For more information visit us: www.electrofun.co.in
+  Video explanation at: https://youtu.be/XflagEfXfGA
+  
+  REQUIRES the following Arduino libraries:
+ SHT21-Arduino-Library  https://github.com/e-radionicacom/SHT21-Arduino-Library
+*/
+
 //Defining all the required libraries 
 #include <SHT21.h>  
 
